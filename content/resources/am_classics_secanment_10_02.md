@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Writing assignment to compare two key texts of the early American republic.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-105-american-classics-fall-2002/0653dc93aecc316eb32bbab2e46fc2f5_am_classics_secanment_10_02.pdf
+file: /media/courses/21h-105-american-classics-fall-2002/0653dc93aecc316eb32bbab2e46fc2f5_am_classics_secanment_10_02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Second Writing Assignment
 uid: 0653dc93-aecc-316e-b32b-bab2e46fc2f5
