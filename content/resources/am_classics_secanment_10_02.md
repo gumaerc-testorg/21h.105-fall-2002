@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3f153908-602f-1786-c61e-2f3c162cd9f1
 resourcetype: Document
 title: Second Writing Assignment
 uid: 0653dc93-aecc-316e-b32b-bab2e46fc2f5

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3f153908-602f-1786-c61e-2f3c162cd9f1
 resourcetype: Document
 title: 'Final Paper Assignment: American Freedom in the Twentieth Century '
 uid: 7077c803-83c7-0528-a0cc-dd02840fc0ea

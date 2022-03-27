@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3f153908-602f-1786-c61e-2f3c162cd9f1
 resourcetype: Document
 title: Third Writing Assignment
 uid: edbf4474-de9b-c16a-ae97-f1002bcc4d6b
