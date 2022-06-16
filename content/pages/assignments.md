@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides in-depth essay assignments that structure students'
+  close examination of classic American texts.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
