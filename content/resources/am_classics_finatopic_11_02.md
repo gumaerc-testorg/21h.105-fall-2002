@@ -7,6 +7,7 @@ file: /courses/21h-105-american-classics-fall-2002/7077c80383c70528a0ccdd02840fc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Final Paper Assignment: American Freedom in the Twentieth Century '
 uid: 7077c803-83c7-0528-a0cc-dd02840fc0ea
 ---
 Writing assignment on the meaning of freedom in American politics and culture during the twentieth century through a close analysis of a document or small set of documents. 
-
