@@ -2,7 +2,7 @@
 content_type: resource
 description: "Selections based on Abraham Lincoln's Selected Speeches and Writings\
   \ (Vintage, 1992).\r\n\r\n"
-file: /ol-ocw-studio-app/courses/21h-105-american-classics-fall-2002/24d76a3d964490bbbb158038c3a90d95_am_classics_linadings_10_02.pdf
+file: /courses/21h-105-american-classics-fall-2002/24d76a3d964490bbbb158038c3a90d95_am_classics_linadings_10_02.pdf
 file_size: 130501
 file_type: application/pdf
 learning_resource_types:

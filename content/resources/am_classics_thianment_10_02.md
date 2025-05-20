@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Writing assignment.
-file: /ol-ocw-studio-app/courses/21h-105-american-classics-fall-2002/edbf4474de9bc16aae97f1002bcc4d6b_am_classics_thianment_10_02.pdf
+file: /courses/21h-105-american-classics-fall-2002/edbf4474de9bc16aae97f1002bcc4d6b_am_classics_thianment_10_02.pdf
 file_size: 73476
 file_type: application/pdf
 learning_resource_types:
